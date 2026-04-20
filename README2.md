@@ -14,7 +14,7 @@ An end-to-end retail analytics project built in Microsoft Excel using the [Super
 - **Copiers and Binders drive profitability:** The top 2 sub-categories account for a disproportionate share of total profit; most sub-categories contribute minimally
 - **West and East lead, Central underperforms:** West (~$725K sales, ~$105K profit) and East (~$670K, ~$90K profit) drive the majority of revenue; Central generates ~$500K in sales but only ~$40K profit — the weakest margin efficiency of any region
 ## Dashboard Preview
-![Dashboard Overview] (Screenshot-Retail_Sales_Dashboard.png)
+![Dashboard Overview](Screenshot-Retail_Sales_Dashboard.png)
  
 ## How to Use
 1. Download `superstore_clean.xlsx`
